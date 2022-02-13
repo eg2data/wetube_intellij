@@ -11,6 +11,7 @@ globalRouter.get("/join", join);
 globalRouter.get("/login", login);
 globalRouter.get("/search", search);
 
+// name change
 
 // 3. export router
 export default globalRouter;
